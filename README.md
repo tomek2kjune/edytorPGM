@@ -8,3 +8,5 @@ Przetwarzanie obrazów PGM.
 - tworzenie histogramu dla obrazu
 - progowanie obrazu
 - dodawanie szumu pieprz-sól do obrazu
+
+*bird.pgm to przykładowy plik z obrazem
